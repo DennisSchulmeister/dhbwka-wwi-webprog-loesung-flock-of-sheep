@@ -2,7 +2,7 @@
 
 Dies ist die **Musterlösung** zur Aufgabe „Flock of Sheep" aus der Vorlesung **Webprogrammierung** (Wirtschaftsinformatik, DHBW Karlsruhe), Kategorie *Responsive Webdesign*.
 
-Ein aus dem Skript bekanntes Bootstrap-Anmeldeformular für die fiktive Plattform „Flock of Sheep“ wird in reines HTML/CSS überführt, um die Unterschiede zu Bootstrap zu erarbeiten.
+Ein einfaches Bootstrap-Anmeldeformular für die fiktive Plattform „Flock of Sheep“ soll um zusätzliche Blöcke und Felder erweitert werden, um die Verwendung der Bootstrap CSS-Klassen zu üben.
 
 Dieses Repository ist Teil der Quellcodes [dhbwka-wwi-webprog-quellcodes](https://github.com/DennisSchulmeister/dhbwka-wwi-webprog-quellcodes) zur Vorlesung Webprogrammierung.
 
